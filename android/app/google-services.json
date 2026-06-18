@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664385424642",
+    "project_id": "accurate-logics-app",
+    "storage_bucket": "accurate-logics-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664385424642:android:c7cb54ca59791a6330061b",
+        "android_client_info": {
+          "package_name": "com.example.accurate_logics_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5NXZlmF1_1glUVuWsFPseklfWDir2Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
